@@ -8,4 +8,4 @@ services:
     autoDeploy: true
     envVars:
       - key: NODE_ENV
-        value: productio
+        value: production
